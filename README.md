@@ -38,7 +38,7 @@ Projenin düzgün çalışabilmesi için aşağıdaki yazılımların sisteminiz
 - **Make** (Makefile kullanarak derlemek için)
 - **Docker** (Docker kullanarak çalıştırmak için)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
 
@@ -53,7 +53,7 @@ Projenin düzgün çalışabilmesi için aşağıdaki yazılımların sisteminiz
 	cd number_reader
 	```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
 
@@ -84,7 +84,7 @@ Daha büyük sayıları okumak için **src/number_header.h** dosyasında aşağ�
 	#define LARGE_NUMBER_COUNT <dizinin_uzunlugu>
 	```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
 
@@ -106,7 +106,7 @@ Kütüphane, **Makefile** üzerinden kolayca derlenebilir ve linklenebilir.
 
 Makefile, kütüphanenizi derleyecek ve `bin/libnumber_reader.a` statik kütüphanesini oluşturacaktır.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
 
@@ -125,7 +125,7 @@ Kütüphaneyi kullanan basit bir programı (`test/test.c`) **Makefile** üzerind
 	make test
 	```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
 
@@ -138,7 +138,7 @@ Kütüphaneyi kullanan basit bir programı (`test/test.c`) **Makefile** üzerind
 │   └── test/			#Projeyi kullanan örnek program
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
 
@@ -165,14 +165,14 @@ Kütüphaneyi kendi C projenizde kullanabilmek için aşağıdaki adımları izl
 	Burada `/path/to` dizini herhangi bir dizin olabilir.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
 
 ## Lisans
 Bu proje [MIT Lisansı](https://github.com/seymenkonuk/number_reader/blob/main/README.md) ile lisanslanmıştır.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
 
@@ -185,6 +185,6 @@ LinkedIn: https://www.linkedin.com/in/recep-seymen-konuk/
 
 Proje Bağlantısı: [https://github.com/seymenkonuk/number_reader](https://github.com/seymenkonuk/number_reader)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#number-reader">back to top</a>)</p>
 
 ---
