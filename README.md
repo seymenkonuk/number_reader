@@ -170,7 +170,7 @@ Kütüphaneyi kendi C projenizde kullanabilmek için aşağıdaki adımları izl
 ---
 
 ## Lisans
-Bu proje [MIT Lisansı](https://github.com/seymenkonuk/number_reader/blob/main/README.md) ile lisanslanmıştır.
+Bu proje [MIT Lisansı](https://github.com/seymenkonuk/number_reader/blob/main/LICENSE) ile lisanslanmıştır.
 
 <p align="right">(<a href="#number-reader">back to top</a>)</p>
 
